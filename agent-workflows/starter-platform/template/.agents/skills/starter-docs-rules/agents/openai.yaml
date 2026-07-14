@@ -1,0 +1,4 @@
+interface:
+  display_name: "Starter Docs Rules"
+  short_description: "Strict documentation taxonomy rules"
+  default_prompt: "Use $starter-docs-rules to choose the correct -guide, -guard, -policy, -toolkit, -usage, or README.md index structure for docs changes."
