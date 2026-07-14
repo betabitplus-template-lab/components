@@ -2,6 +2,8 @@
 
 [[[ project_description ]]]
 
+Template updates are delivered through versioned Copier releases.
+
 This project uses the shared py-lib project structure: source-layout
 packaging, a small public package boundary, private implementation folders,
 layered tests, package docs, runnable public API examples, local workbench
