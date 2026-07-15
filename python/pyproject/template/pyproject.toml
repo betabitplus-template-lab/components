@@ -58,7 +58,7 @@ dev = [
   "pre-commit>=4.6.0",
   # Shared repo tooling and test support
   "py-lib-tooling @ git+[[[ tooling_git_url ]]]@[[[ tooling_git_ref ]]]#subdirectory=[[[ tooling_git_subdirectory ]]]",
-  "pyright>=1.1.410",
+  "pyright>=1.1.411",
   # Test runner and plugins
   "pytest>=9.1.0",
   "pytest-cov>=7.1.0",
